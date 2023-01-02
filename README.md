@@ -3,7 +3,7 @@ Employ pandas to analyze data of school academic performance across various KPIs
 
 ## Background
 
-Pandas were used to transform school performance data for 15 schools across 30,000+ students, analyze the data and produce summaries of the results.
+Pandas were used to transform school performance data for 15 schools across nearly 40,000 students, analyze the data and produce summaries of the findings.
 
 ## Approach
 
