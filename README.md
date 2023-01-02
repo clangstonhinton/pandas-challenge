@@ -24,7 +24,8 @@ Pandas were used to transform school performance data for 15 schools across 30,0
 
 
 ## Files Used for Data Analysis
-
+ - schools_complete.csv
+ - students_complete.csv
 
 ## References & Resources
 
