@@ -28,4 +28,9 @@ Pandas were used to transform school performance data for 15 schools across 30,0
  - students_complete.csv
 
 ## References & Resources
+https://sparkbyexamples.com/pandas/pandas-count-unique-values-in-column/
+
+https://sparkbyexamples.com/pandas/pandas-aggregate-functions-with-examples/
+
+https://sparkbyexamples.com/pandas/pandas-series-sort-values/
 
